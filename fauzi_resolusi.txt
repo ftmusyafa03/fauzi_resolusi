@@ -1,3 +1,5 @@
 FAUZI RESOLUSI
 -Konsisten untuk belajar programming, networking, dan sysadmin.
-- Kolaborasi dengan lebih banyak expert
+-Kolaborasi dengan lebih banyak expert
+-Pelajari IT manajemen dengan ITIL dan Cobit
+-Ambil sertifikasi MTCNA, MTCRE, CCNA,CCNP, COMPTIA Network+
